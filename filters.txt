@@ -1,0 +1,52 @@
+[Adblock Plus 2.0]
+! Title: iamale/adlist
+! Author: Ale | https://notpushk.in/
+! Version: 10.0
+! Expires: 1 days
+! License: https://unlicense.org/
+! Homepage: https://github.com/iamale/adlist
+
+! --- ad-related things ---
+
+||rutrk.org/240x800/$image
+||rutrk.org$subdocument
+
+||files.nyaa.se/be-*.jpg$image
+
+! These two are rather tricky
+! yadi.sk##[class$="__preview-resource"]
+! yadi.sk##[class$="__preview-resource"] ~ *
+
+! Yandex.Music audio & classic ads, paid features and huge banners
+||strm.yandex.ru/get-video-an/
+music.yandex.ru##.payment-show, .subscription-hint
+music.yandex.ru##.overhead
+music.yandex.ru##.yap-rtb__iframe
+music.yandex.ru##.ads-block
+music.yandex.ru##.teaser
+music.yandex.ru##.bar__megafon-container
+
+! Anti-adblock
+pornolab.net##.bypass-alert
+
+! Yandex.Direct embedded on server side
+www.kakprosto.ru##.nu_yd_bot
+
+! Twitter ads
+twitter.com##.promoted-tweet
+
+! --- antifeatures ---
+
+! Huge sign up popup
+www.facebook.com###u_0_0
+ru-ru.facebook.com###u_0_3
+
+! Just fuck these guys
+||jivosite.com
+||perezvoni.com
+||hotpartner.ru
+||hellobar.com
+||api.cloudleadia.com
+
+twitter.com##.typeahead-topics
+twitter.com##.js-moments-tab
