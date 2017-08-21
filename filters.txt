@@ -26,6 +26,10 @@ music.yandex.ru##.ads-block
 music.yandex.ru##.teaser
 music.yandex.ru##.bar__megafon-container
 
+! some movie promo
+||music.yandex.ru/i/vJM0oQGBR1eW6Ulc4Zm1g3SZh-o.svg$image
+||music.yandex.ru/i/yVw0P-gzEWPm5IyrijeC_YgdRRM.svg$image
+
 ! Anti-adblock
 pornolab.net##.bypass-alert
 
