@@ -46,13 +46,13 @@ www.facebook.com###u_0_0
 ru-ru.facebook.com###u_0_3
 
 ! Just fuck these guys
+*venyoo.ru*
+*leadia.ru*
+*cloudleadia.com*
 ||jivosite.com
 ||perezvoni.com
 ||hotpartner.ru
 ||hellobar.com
-||api.cloudleadia.com
-||s3-eu-west-1.amazonaws.com/static.venyoo.ru/*
-||s3-eu-west-1.amazonaws.com/static.leadia.ru/*
 
 twitter.com##.typeahead-topics
 twitter.com##.js-moments-tab
