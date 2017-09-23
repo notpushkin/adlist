@@ -51,6 +51,7 @@ ru-ru.facebook.com###u_0_3
 ||hotpartner.ru
 ||hellobar.com
 ||api.cloudleadia.com
+||s3-eu-west-1.amazonaws.com/static.venyoo.ru/*
 
 twitter.com##.typeahead-topics
 twitter.com##.js-moments-tab
