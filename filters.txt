@@ -52,6 +52,7 @@ ru-ru.facebook.com###u_0_3
 ||hellobar.com
 ||api.cloudleadia.com
 ||s3-eu-west-1.amazonaws.com/static.venyoo.ru/*
+||s3-eu-west-1.amazonaws.com/static.leadia.ru/*
 
 twitter.com##.typeahead-topics
 twitter.com##.js-moments-tab
