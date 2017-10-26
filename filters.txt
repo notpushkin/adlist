@@ -25,6 +25,9 @@ music.yandex.ru##.yap-rtb__iframe
 music.yandex.ru##.ads-block
 music.yandex.ru##.teaser
 music.yandex.ru##.bar__megafon-container
+music.yandex.ru##.button-store_all
+music.yandex.ru##.ads-block__item
+music.yandex.ru##.slider-hider__content
 
 ! some movie promo
 ||music.yandex.ru/i/vJM0oQGBR1eW6Ulc4Zm1g3SZh-o.svg$image
