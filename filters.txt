@@ -42,6 +42,10 @@ www.kakprosto.ru##.nu_yd_bot
 ! Twitter ads
 twitter.com##.promoted-tweet
 
+! Too many ads everywhere
+! TODO: remove after 23.11
+##a[href="https://glavclub.com/yung-lean"]
+
 ! --- antifeatures ---
 
 ! Huge sign up popup
