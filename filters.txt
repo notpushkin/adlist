@@ -6,16 +6,23 @@
 ! License: https://unlicense.org/
 ! Homepage: https://gitlab.com/iamale/adlist
 
-! --- ad-related things ---
+! --- ADS ---
 
 ||rutrk.org/240x800/$image
 ||rutrk.org$subdocument
-
 ||files.nyaa.se/be-*.jpg$image
+||2ch.hk/banners/$image
 
-! These two are rather tricky
-! yadi.sk##[class$="__preview-resource"]
-! yadi.sk##[class$="__preview-resource"] ~ *
+twitter.com##.promoted-tweet
+pornolab.net##.bypass-alert
+bitcoinwisdom.com###leftbar
+www.quora.com##.condensed_ad_experiment
+www.slivki.by###full-site-banner
+rarbgto.org##a[href*="//aaucwbe.com"]
+rarbgto.org##[style*="position: fixed; top: 0px; bottom: 0px"]
+challonge.com##.ax-bar
+challonge.com##.corner-ax
+www.nosteam.ro###bras
 
 ! Yandex.Music audio & classic ads, paid features and huge banners
 ||strm.yandex.ru/get-video-an/
@@ -28,29 +35,18 @@ music.yandex.ru##.bar__megafon-container
 music.yandex.ru##.button-store_all
 music.yandex.ru##.ads-block__item
 music.yandex.ru##.slider-hider__content
-
-! some movie promo
-||music.yandex.ru/i/vJM0oQGBR1eW6Ulc4Zm1g3SZh-o.svg$image
-||music.yandex.ru/i/yVw0P-gzEWPm5IyrijeC_YgdRRM.svg$image
-
-! Anti-adblock
-pornolab.net##.bypass-alert
+music.yandex.ru##.bar-below
 
 ! Yandex.Direct embedded on server side
 www.kakprosto.ru##.nu_yd_bot
 
-! Twitter ads
-twitter.com##.promoted-tweet
 
-! Too many ads everywhere
-! TODO: remove after 23.11
-##a[href="https://glavclub.com/yung-lean"]
+! --- ANTIFEATURES ---
 
-! --- antifeatures ---
-
-! Huge sign up popup
+! Huge sign up popups
 www.facebook.com###u_0_0
 ru-ru.facebook.com###u_0_3
+www.instagram.com##._6in6f._j8mem
 
 ! Just fuck these guys
 *venyoo.ru*
