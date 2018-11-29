@@ -47,6 +47,7 @@ www.kakprosto.ru##.nu_yd_bot
 www.facebook.com###u_0_0
 ru-ru.facebook.com###u_0_3
 www.instagram.com##._6in6f._j8mem
+facebook.com###pagelet_growth_expanding_cta
 
 ! Just fuck these guys
 *venyoo.ru*
@@ -57,5 +58,5 @@ www.instagram.com##._6in6f._j8mem
 ||hotpartner.ru
 ||hellobar.com
 
-twitter.com##.typeahead-topics
-twitter.com##.js-moments-tab
+medium.com##.js-stickyFooter
+hackernoon.com##.js-stickyFooter
