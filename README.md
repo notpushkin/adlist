@@ -27,6 +27,8 @@ Finally, you can [block third-party iframes as well][3pfr]:
 
 ```
 * * 3p-frame block
+# To unbreak recaptcha you'll need to whitelist google though:
+* google.com * noop
 ```
 
 [3pfr]: https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Benefits-of-blocking-3rd-party-iframe-tags
