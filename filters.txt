@@ -4,7 +4,7 @@
 ! Version: 10.0
 ! Expires: 1 days
 ! License: https://unlicense.org/
-! Homepage: https://gitlab.com/iamale/adlist
+! Homepage: https://gitlab.com/notpushkin/adlist
 
 ! --- ADS ---
 
@@ -48,6 +48,7 @@ www.facebook.com###u_0_0
 ru-ru.facebook.com###u_0_3
 www.instagram.com##._6in6f._j8mem
 facebook.com###pagelet_growth_expanding_cta
+www.pinterest.com##[data-test-id="fullPageSignupModal"]
 
 ! Just fuck these guys
 *venyoo.ru*
