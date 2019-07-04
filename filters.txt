@@ -6,7 +6,8 @@
 ! License: https://unlicense.org/
 ! Homepage: https://gitlab.com/notpushkin/adlist
 
-! --- ADS ---
+! Ads
+! ----
 
 ||rutrk.org/240x800/$image
 ||rutrk.org$subdocument
@@ -23,6 +24,7 @@ rarbgto.org##[style*="position: fixed; top: 0px; bottom: 0px"]
 challonge.com##.ax-bar
 challonge.com##.corner-ax
 www.nosteam.ro###bras
+||booktracker.org/pictures/512dd7378a7f6c6a14db2edbc31f3dab.png$image
 
 ! Yandex.Music audio & classic ads, paid features and huge banners
 ||strm.yandex.ru/get-video-an/
@@ -41,7 +43,14 @@ music.yandex.ru##.bar-below
 www.kakprosto.ru##.nu_yd_bot
 
 
-! --- ANTIFEATURES ---
+! Privacy
+! --------
+
+||2ip.ru/bar/$image
+
+
+! Annoyances
+! -----------
 
 ! Huge sign up popups
 www.facebook.com###u_0_0
@@ -49,15 +58,19 @@ ru-ru.facebook.com###u_0_3
 www.instagram.com##._6in6f._j8mem
 facebook.com###pagelet_growth_expanding_cta
 www.pinterest.com##[data-test-id="fullPageSignupModal"]
+tvtropes.org##[style="width: 100%; position: fixed; bottom: 0px; z-index: 100001; opacity: 1; text-align: center;"]
 
-! Just fuck these guys
+! Medium
+medium.com##.js-stickyFooter
+hackernoon.com##.js-stickyFooter
+
+! моя консультация бесплатна, задавайте вопросы
 *venyoo.ru*
 *leadia.ru*
 *cloudleadia.com*
-||jivosite.com
-||perezvoni.com
+||justiva.ru
+||prava.expert/test-widget3/
 ||hotpartner.ru
-||hellobar.com
 
-medium.com##.js-stickyFooter
-hackernoon.com##.js-stickyFooter
+||perezvoni.com
+||hellobar.com
