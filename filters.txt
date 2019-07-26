@@ -28,6 +28,11 @@ www.nosteam.ro###bras
 
 ! Yandex.Music audio & classic ads, paid features and huge banners
 ||strm.yandex.ru/get-video-an/
+
+! Block iframes (banners) served from same host:
+||music.yandex.ru$subdocument,~third-party
+music.yandex.ru##.sidebar__placeholder style ~ div
+
 music.yandex.ru##.payment-show, .subscription-hint
 music.yandex.ru##.overhead
 music.yandex.ru##.yap-rtb__iframe
