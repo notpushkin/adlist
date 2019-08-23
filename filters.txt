@@ -82,6 +82,8 @@ hackernoon.com##.js-stickyFooter
 ||cloudleadia.com^
 ||api.cloudleadia.com^
 ||cloud.lexprofit.net^
+proxy*init_widget
+/widget/1.1/sounds^
 ||justiva.ru^
 ||prava.expert/test-widget3/^
 ||hotpartner.ru^
