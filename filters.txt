@@ -77,12 +77,16 @@ medium.com##.js-stickyFooter
 hackernoon.com##.js-stickyFooter
 
 ! моя консультация бесплатна, задавайте вопросы
-*venyoo.ru*
-*leadia.ru*
-*cloudleadia.com*
+venyoo.ru
+leadia.ru
+cloudleadia.com
+api.cloudleadia.com
 ||justiva.ru
 ||prava.expert/test-widget3/
 ||hotpartner.ru
+||133921.selcdn.ru^$image
+###leadia-widget
+##.lexprofit-widget
 
 ||perezvoni.com
 ||hellobar.com
