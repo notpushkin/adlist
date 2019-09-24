@@ -54,6 +54,8 @@ yandex.ru##.content div:has(> div > style[nonce])
 ! https://yandex.ru/maps EXPERIMENTAL
 yandex.ru##body._map_ready .home-panel-content-view__body > div > div:has-text(Яндекс.Директ)
 
+twitter.com##div:has(> div > div > article path[d^="M20.75 2H3.25"])
+
 
 ! Privacy
 ! --------
