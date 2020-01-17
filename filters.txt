@@ -15,6 +15,8 @@
 ||2ch.hk/banners/$image
 
 twitter.com##.promoted-tweet
+twitter.com##div:has(> div > div > article path[d^="M20.75 2H3.25"])
+
 pornolab.net##.bypass-alert
 bitcoinwisdom.com###leftbar
 www.quora.com##.condensed_ad_experiment
@@ -25,6 +27,13 @@ challonge.com##.ax-bar
 challonge.com##.corner-ax
 www.nosteam.ro###bras
 ||booktracker.org/pictures/512dd7378a7f6c6a14db2edbc31f3dab.png$image
+www.avito.ru##.avito-ads-placeholder
+myanimelist.net##.mal-ad-unit
+libraries.io##.alert[style^="background-color: #F6914D"]
+mtkcustomroms.com##.asub00
+||www.slivki.by/images/slivki-img/*banner$image
+||www.slivki.by/images/slivki-img/*unnamed.gif$image
+www.slivki.by##.head-banner-container
 
 ! Yandex.Music audio & classic ads, paid features and huge banners
 ||strm.yandex.ru/get-video-an/
@@ -54,7 +63,8 @@ yandex.ru##.content div:has(> div > style[nonce])
 ! https://yandex.ru/maps EXPERIMENTAL
 yandex.ru##body._map_ready .home-panel-content-view__body > div > div:has-text(Яндекс.Директ)
 
-twitter.com##div:has(> div > div > article path[d^="M20.75 2H3.25"])
+! zen.yandex.ru EXPERIMENTAL
+zen.yandex.ru##.article-render__block_embed:has-text(объявление)
 
 
 ! Privacy
@@ -95,3 +105,7 @@ proxy*init_widget
 
 ||perezvoni.com
 ||hellobar.com
+
+! ( ͡° ͜ʖ ͡°)
+pornhub.com###age-verification-wrapper
+pornhub.com###age-verification-container
