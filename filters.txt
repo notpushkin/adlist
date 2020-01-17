@@ -53,6 +53,12 @@ music.yandex.ru##.ads-block__item
 music.yandex.ru##.slider-hider__content
 music.yandex.ru##.bar-below
 
+! Yandex.Afisha
+//afisha.yandex.ru$subdocument
+afisha.yandex.ru##.adfox_type_branding
+afisha.yandex.ru##.sidebar__yabs ~ *
+afisha.yandex.ru##.grid__inner:has(iframe)
+
 ! Yandex.Direct embedded on server side
 www.kakprosto.ru##.nu_yd_bot
 
