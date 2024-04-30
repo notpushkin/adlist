@@ -35,6 +35,121 @@ mtkcustomroms.com##.asub00
 ||www.slivki.by/images/slivki-img/*unnamed.gif$image
 www.slivki.by##.head-banner-container
 
+||*.ts?requester=oo$domain=www.wired.com
+||aax.amazon-adsystem.com^$important
+||anyclip-1.hs.llnwd.net^
+||app.buyerzone.com/$subdocument
+||app.rlsnet.ru/api/storage/banners/gif/*$image
+||app.rlsnet.ru/api/storage/banners/png/*$image
+||c.otaserve.net/$subdocument
+||cdn.ctengine.io/$subdocument
+||cdn.ctengine.io/pub$image
+||cdn.myanimelist.net/resources/mxj_panel/$image
+||cdn.rup.ee/*/Banner*$image
+||clickiocdn.com^
+||cm.g.doubleclick.net/pixel$important
+||coinzillatag.com^$script
+||csi.gstatic.com^$important
+||d.otaserve.net^
+||d.otaserve.net^$important
+||friendshipmale.com^
+||internationalwealth.info/wp-content/uploads/*/baner*$image
+||internationalwealth.info/wp-content/uploads/*/banner_*$image
+||internationalwealth.info/wp-content/uploads/*baner*$image
+||internationalwealth.info/wp-content/uploads/2015/04/vtor_pas.jpg$image
+||internationalwealth.info/wp-content/uploads/2022/03/fiz_lic.png$image
+||js.trendmd.com/trendmd.min.js
+||live.primis.tech^$script,domain=genius.com
+||luxcdn.com^$domain=forum.awd.ru
+||marketplace.anyclip.com^
+||myanimelist.net/ads.txt$subdocument
+||onetag-sys.com^$important
+||pagead2.googlesyndication.com^$important
+||pixel.anyclip.com^
+||player.anyclip.com^
+||prebid-server.rubiconproject.com^$important
+||request-global.czilladx.com/
+||request-global.czilladx.com^
+||s3t3d2y8.afcdn.net/library/$image
+||securepubads.g.doubleclick.net^$important
+||t.poki.io^$important
+||tld-list.com/img/a/SPACESHIP.TLDLIST.gif$image
+||tor4.zone/ad/*.gif$image
+||trafficmanager.anyclip.com^
+||verify.yandex.ru^$domain=forum.awd.ru
+||www.googleadservices.com^$important
+||www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2015/05/13/13/24/tmcd_3btn_130x235_v7.gif$image
+||www.photopea.com/img/pp_tall.png$image
+||www.shfsdvc.com/en/us/banner/$subdocument
+||www.trendmd.com^$xhr
+||www.youtube-nocookie.com/youtubei/v1/log_event$important
+||x.bidswitch.net^
+||yandex.ru^$domain=forum.awd.ru
+||youtube-ui.l.google.com^$domain=imasdk.googleapis.com,important
+4dayweek.io##.notjobtavert-tile-wrapper
+4pera.com##.telegramim_pulse
+aliexpress.ru##[class*=InfoBanner]
+aliexpress.ru##[class*=TopBanner]
+chan.sankakucomplex.com##.has-mail
+developer.mozilla.org##.pong-box, .pong-box~*
+developer.mozilla.org##.top-banner
+duckduckgo.com##.js-sidebar-ads
+duckduckgo.com##.results--ads
+dzen.ru##.ad-split-embed
+dzen.ru##.article-right-ad-block
+fastapi.tiangolo.com##.md-banner
+forum.awd.ru##.post:has([id^="div-gpt-ad"])
+gelbooru.com##.exo-native-widget-item
+gelbooru.com##.root--ujvuu
+gelbooru.com##[href^="https://www.soulgen.net/landing/real-page"]
+gelbooru.com###exo-native-widget-5085494-DPbFX > .exo-native-widget-outer-container > div.exo-native-widget-item-container > .exo-native-widget-item
+genius.com##primis-player
+journal.tinkoff.ru##[class*="horizontalWideBannerLayoutFixWrapper"]
+journal.tinkoff.ru###bannerlink-level
+journal.tinkoff.ru###popmechanic-snippet
+myanimelist.net##.mxj.widget
+myanimelist.net##.ub-3dlabel
+ppt.ru##[id^=luxup]
+pro.imdb.com###logged_out_upsell_wrapper
+pure.app##[class*="banner-slide"]
+pure.app##[class*="devils-bubble"]
+pure.app##[class*="promo-banner"]
+pure.app##[class*="random-chat-banner"]
+ru.rup.ee##.sticky-banner
+soundcloud.com##.banner
+soundcloud.com##.empty.isMine.spotlight
+soundcloud.com##.header__link[href^="https://checkout.soundcloud.com/"]
+spb.cian.ru##[class*='description-buy-analytics-wrapper']
+vc.ru##.dstr-bn
+vc.ru##.propaganda
+wolt.com##[data-test-id^="venueCard"]:has-text(Sponsored)
+www.103.kz##.Banner
+www.404media.co##.btn[href="https://404media.co/#/portal"]
+www.binance.com##.recommend-card
+www.binance.com##div:has(> div > .uikit-carousel)
+www.blockchain.com##.coinzilla
+www.bybit.com##.fiat-otc__ad-banner-container
+www.duolingo.com##div:has(+ [data-test="footer-links"])
+www.duolingo.com##div:has(> img[src="https://d35aaqx5ub95lt.cloudfront.net/images/super/2e50c3e8358914df5285dc8cf45d0b4c.svg"])
+www.hanko.io##.banner
+www.independent.co.uk##.apester-fill-content
+www.independent.co.uk##.apester-unit.apester-media
+www.photopea.com##.app.flexrow > div:has([src="img/pp_tall.png"])
+www.rbc.ru##.social-onboarding-place
+www.theatlantic.com###paywall
+www.theguardian.com##gu-island[props*="contributionsServiceUrl"]
+www.tradingview.com##.tv-footer__banner > * > *
+www.tradingview.com##.tv-header__offer-button-container
+www.tradingview.com##[class*=brokerSelectScreen-nNH_4fv6] > [class*=banner]
+www.tradingview.com###bottom-area [class^=brokerCards] > *:has([class*=featured]):style(order:0 !important;)
+www.washingtonpost.com##.interstitial
+www.wired.com##.cne-video-embed
+www.wired.com##[class*=StickyBoxPrimary] [class*=VideoFigure]
+xeiaso.net##[data-ea-publisher]
+
+! sorry ;-;
+kottke.org###carbon-ad
+
 ! Yandex.Music audio & classic ads, paid features and huge banners
 ||strm.yandex.ru/get-video-an/
 
@@ -53,11 +168,18 @@ music.yandex.ru##.ads-block__item
 music.yandex.ru##.slider-hider__content
 music.yandex.ru##.bar-below
 
-! Yandex.Afisha
 //afisha.yandex.ru$subdocument
 afisha.yandex.ru##.adfox_type_branding
 afisha.yandex.ru##.sidebar__yabs ~ *
 afisha.yandex.ru##.grid__inner:has(iframe)
+realty.yandex.ru##.OffersSearchPage__adCut
+realty.yandex.ru##[class$="__ads"]
+realty.yandex.ru##[class$=__bottom-ad]
+realty.yandex.ru##[class$=__banner_ad]
+realty.yandex.ru##.OffersSearchPage li:has(.RevokedButtonLikeLabel)
+yandex.ru##.banner-view
+yandex.com.ge##.banner-view
+||avatars.mds.yandex.net/get-adfox-content/*$image
 
 ! Yandex.Direct embedded on server side
 www.kakprosto.ru##.nu_yd_bot
@@ -68,9 +190,6 @@ yandex.ru##.content div:has(> div > style[nonce])
 
 ! https://yandex.ru/maps EXPERIMENTAL
 yandex.ru##body._map_ready .home-panel-content-view__body > div > div:has-text(Яндекс.Директ)
-
-! zen.yandex.ru EXPERIMENTAL
-zen.yandex.ru##.article-render__block_embed:has-text(объявление)
 
 
 ! Privacy
@@ -93,6 +212,62 @@ tvtropes.org##[style="width: 100%; position: fixed; bottom: 0px; z-index: 100001
 ! Medium
 medium.com##.js-stickyFooter
 hackernoon.com##.js-stickyFooter
+
+! Cookie popups
+www.interactivebrokers.co.uk##.modal-cookies
+||cdn.cookielaw.org/logos/static/ot_persistent_cookie.png$image
+docs.docker.com###onetrust-consent-sdk
+platform.wise.com##.hs-cookie-notification-position-bottom
+www.pcbgogo.com##.cookies-parent
+klasha.com##.cookie-popup
+
+! Jump to top buttons
+encyclopatia.ru##.button-up
+pass.rzd.ru##.btn-fixed-toTop
+core.telegram.org##.back_to_top_wrap
+
+! BIG RED BUTTON
+||accessibleexitsigns.files.wordpress.com/2014/07/newsletter-signup-accessible-exit-sign-project.gif$image
+
+! Various
+||narrations.ad-auris.com/widget/$subdocument
+||translate.googleapis.com/_/translate_http/_/js/*
+||files.jumpoutpopup.ru^
+date-fns.org##header ~ :last-child
+en.wikipedia.org###wmde-banner-app
+jalopnik.com###trending_wrapper
+secrets.tinkoff.ru##.SubscriptionPopup_container
+secure.booking.com##.cross-sell-exposure-point
+secure.booking.com##.cdr-container
+secure.booking.com##.npi__section
+secure.booking.com##.attr-conf-section
+secure.booking.com##.section-review-cta
+winners.webbyawards.com###pushpad-bell
+wolt.com##main [aria-live="polite"]:has-text(14 days)
+www.bloomberg.com###fortress-paywall-container-root
+www.glassdoor.com###HardsellOverlay
+www.glassdoor.com##body:style(overflow:unset !important;position:unset !important;)
+www.ozon.ru##[data-widget="bannerCarousel"]
+www.ozon.ru##[data-widget="profileLogo"] .tsBodyControl300XSmall, [data-widget="favoriteCounter"] .tsBodyControl300XSmall
+www.ozon.ru##[data-widget="setOfPreviews"]
+www.tradingview.com##[class*="menuNotifications"]
+www.tradingview.com##[class*="wrapper--open-account"]
+www.upwork.com##.announcements-list
+
+www.migrun.tech##.c-nav-fixed__wrapper
+www.migrun.tech##.c-side-nav__banner
+www.migrun.tech##.paywall-container
+www.migrun.tech##.c-review-section
+www.migrun.tech##.c-guide-s7
+www.migrun.tech##.banner-immigration-s6
+www.migrun.tech##.s-activists
+www.migrun.tech##.s-experts__grid
+www.migrun.tech##.s-experts
+www.migrun.tech##a.menu-item[href="#experts"]
+www.migrun.tech##a.menu-item[href="#anchor-activists"]
+www.migrun.tech##a.menu-item[href="#reviews"]
+www.migrun.tech##a.c-country-header__link-block[href="#tips"] ~ *
+www.migrun.tech##.intercom-lightweight-app
 
 ! моя консультация бесплатна, задавайте вопросы
 ||venyoo.ru^
