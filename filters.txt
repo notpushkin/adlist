@@ -269,6 +269,24 @@ www.migrun.tech##a.menu-item[href="#reviews"]
 www.migrun.tech##a.c-country-header__link-block[href="#tips"] ~ *
 www.migrun.tech##.intercom-lightweight-app
 
+www.linkedin.com##[data-view-name="cohorts-list"] > div > section:has-text(daily games)
+www.linkedin.com##iframe[componentkey$="_nav_ad"]
+www.linkedin.com##h2:has-text(AI-powered job ass)
+www.linkedin.com##[data-view-name="cohorts-section-pfollows"]
+www.linkedin.com##.artdeco-global-alert--subscription
+www.linkedin.com##[aria-label="Add to your feed"]
+www.linkedin.com##[data-view-name="premium-nav-upsell-text"]
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##[data-view-name="premium-upsell-card"]
+www.linkedin.com##a[href="https://www.linkedin.com/games/zip/"]
+www.linkedin.com##.pv-text-details__verification-non-self-promo
+www.linkedin.com##aside .pv-profile-card li:has(> .pvs-premium-upsell__container),aside .pv-profile-card li:has(> .pvs-premium-upsell__container)~*
+www.linkedin.com##.card-upsell-v2__text-container
+www.linkedin.com##.artdeco-card:has(.card-upsell-v2__text-container)
+www.linkedin.com##[data-view-name="invitation-preview"] + section:has(a[href^="https://www.linkedin.com/games/"])
+www.linkedin.com##[class*=upsell-premium]
+www.linkedin.com##.job-details-module:has(button:has-text(Show match details))
+
 ! моя консультация бесплатна, задавайте вопросы
 ||venyoo.ru^
 ||leadia.ru^
